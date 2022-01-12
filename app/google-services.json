@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "727042963324",
+    "firebase_url": "https://esp2866tr-default-rtdb.firebaseio.com",
+    "project_id": "esp2866tr",
+    "storage_bucket": "esp2866tr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727042963324:android:7dd180510d607c351c16f9",
+        "android_client_info": {
+          "package_name": "com.example.heartratemonitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727042963324-sropa5tsfjf2s3l7p2pdh0q44p5k02vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF6N7REr7Q-CibIHA4C2T4WFgWk1KkRtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727042963324-sropa5tsfjf2s3l7p2pdh0q44p5k02vk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
